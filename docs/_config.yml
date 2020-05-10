@@ -2,13 +2,21 @@ title: Evolución del COVID-19 en el Perú
 author: AgustinTapia 
 email: a.tapia245@gmail.com
 description: > 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-  
-# social links
+Insights sobre el desarrollo de la pandemia COVID-19 en el Perú.
+
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 # github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: jekyll-theme-midnight
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" #can be pages, posts or drafts.
+    values:
+      layout: "default"
+      author: "Agustin Tapia"
+      category: 
+      date:
