@@ -1,1 +1,12 @@
-remote_theme: clayh53/tufte-jekyll
+title: Evolución del COVID-19 en el Perú
+author: AgustinTapia 
+email: a.tapia245@gmail.com
+#description: >
+#  Insights sobre la pandemia en el Peru.
+
+# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+# github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+
+# show_excerpts: false # set to false to remove excerpts on the homepage
+
+theme: minima
