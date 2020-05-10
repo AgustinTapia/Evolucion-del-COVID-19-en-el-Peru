@@ -2,4 +2,4 @@
 
 Insights sobre el desarrollo de la pandemia COVID-19 en el Perú.
 
-Ver en: 
+Ver: https://agustintapia.github.io/Evolucion-del-COVID-19-en-el-Peru/
