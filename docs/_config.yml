@@ -7,14 +7,3 @@ email: a.tapia245@gmail.com
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: jekyll-theme-midnight
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" #can be pages, posts or drafts.
-    values:
-      layout: "default"
-      author: "Agustin Tapia"
-      category: 
-      date:
