@@ -8,5 +8,4 @@ email: a.tapia245@gmail.com
 # github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-remote_theme: thomasvaeth/trophy-jekyll
-
+remote_theme: CloudCannon/frisco-jekyll-template
