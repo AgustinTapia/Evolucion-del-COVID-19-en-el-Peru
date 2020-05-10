@@ -4,4 +4,4 @@ A pesar de esta situación, existen esfuerzos como el del Dr. Jesús M. Castagne
 
 Tomando dicha información como base, a continuación comparto algunos insights sobre la evolución de esta enfermedad en nuestro país. La fecha de corte es el 1 de mayo de 2020:
 
-Ver galería: [Link to a document]({% casos-por-dia.html %})
+Ver galería: [Link to a document]({% link /casos-por-dia.html %})
