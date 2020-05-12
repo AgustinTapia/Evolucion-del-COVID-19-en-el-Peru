@@ -4,8 +4,14 @@ A pesar de esta situación, existen esfuerzos como el del Dr. Jesús M. Castagne
 
 Tomando dicha información como base, a continuación comparto algunos insights sobre la evolución de esta enfermedad en nuestro país. La fecha de corte es el 1 de mayo de 2020:
 
-[Evolucion de los casos](/assets/StatDist de los Contagios.png)
+[Evolucion de los Casos](/assets/evolucion-de-casos.html)
+
+[Distribucion acumulada de los Contagios](/assets/StatDist de los Contagios.png)
 
 [Casos Nuevos por Dia](/assets/casos-por-dia.html)
 
 [Casos por Zona Geografica](assets/Casos por Region.png)
+
+[Tasa de Letalidad](/assets/Tasa de letalidad Peru.png)
+
+
